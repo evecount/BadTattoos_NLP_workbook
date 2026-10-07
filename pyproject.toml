@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inkcotton"
+version = "0.1.0"
+description = "Project Ink & Cotton: Deconstructing Bad Tattoos & Novelty Graphic Tees with NLP"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Gwendalynn Lim", email = "gwenlynn.lim@gmail.com"}
+]
+keywords = ["nlp", "linguistics", "spelling-correction", "levenshtein", "stylometrics", "syntactic-ambiguity", "markov-chains", "graphic-tees", "bad-tattoos"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black>=23.0",
+    "flake8>=6.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["inkcotton*"]

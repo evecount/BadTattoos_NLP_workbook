@@ -1,0 +1,31 @@
+id,category,raw_text,intended_text,theme,has_ambiguity
+101,ironic_tee,"Let's eat kids!","Let's eat, kids!",dark_humor,1
+102,ironic_tee,"Eats shoots and leaves","Eats, shoots, and leaves",grammar_nerd,1
+103,ironic_tee,"I'm with stupid --->","I'm with stupid --->",retro_gag,0
+104,ironic_tee,"Professional Overthinker - Certified Delulu","Professional Overthinker - Certified Delulu",internet_slang,0
+105,ironic_tee,"Running on iced coffee, dry shampoo, and existential dread","Running on iced coffee, dry shampoo, and existential dread",burnout,0
+106,ironic_tee,"I survived another meeting that should have been an email","I survived another meeting that should have been an email",corporate_satire,0
+107,ironic_tee,"Smol but will yeet you into the sun","Smol but will yeet you into the sun",internet_slang,0
+108,ironic_tee,"Cancel my subscription to your drama","Cancel my subscription to your drama",sarcasm,0
+109,ironic_tee,"Introverted but willing to discuss cats","Introverted but willing to discuss cats",relatable,0
+110,ironic_tee,"I paused my anime to be here, don't test me","I paused my anime to be here, don't test me",pop_culture,0
+111,ironic_tee,"Tables turn, bridges burn, you live and learn","Tables turn, bridges burn, you live and learn",cliche,0
+112,ironic_tee,"Sarcasm is my cardio","Sarcasm is my cardio",sarcasm,0
+113,ironic_tee,"Nap champion 2026","Nap champion 2026",laziness,0
+114,ironic_tee,"Feral goblin energy only","Feral goblin energy only",chaos,0
+115,ironic_tee,"Probably overthinking this t-shirt","Probably overthinking this t-shirt",meta,0
+116,ironic_tee,"I came, I saw, I had anxiety so I left","I came, I saw, I had anxiety so I left",parody,0
+117,ironic_tee,"Couch potato in training","Couch potato in training",laziness,0
+118,ironic_tee,"Everything is fine (dumpster fire)","Everything is fine (dumpster fire)",meme,0
+119,ironic_tee,"Bruh momentum","Bruh momentum",internet_slang,0
+120,ironic_tee,"Please do not perceive me today","Please do not perceive me today",introvert,0
+121,ironic_tee,"Hunters: please do not shoot deer with antlers","Hunters: please do not shoot deer with antlers",syntactic_ambiguity,1
+122,ironic_tee,"Slow children at play","Slow children at play",syntactic_ambiguity,1
+123,ironic_tee,"We serve delicious hot dog buns filled with fresh meat","We serve delicious hot dog buns filled with fresh meat",syntactic_ambiguity,1
+124,ironic_tee,"No more bad vibes, only iced coffee","No more bad vibes, only iced coffee",millennial,0
+125,ironic_tee,"I am silently judging your font choice","I am silently judging your font choice",designer,0
+126,ironic_tee,"Tired of being strong, ready to be a pampered house cat","Tired of being strong, ready to be a pampered house cat",relatable,0
+127,ironic_tee,"My neck, my back, my anxiety attack","My neck, my back, my anxiety attack",parody,0
+128,ironic_tee,"Emotionally attached to my bed","Emotionally attached to my bed",sleep,0
+129,ironic_tee,"Fluent in silence and eye rolls","Fluent in silence and eye rolls",attitude,0
+130,ironic_tee,"Caffeine and chaos coordinator","Caffeine and chaos coordinator",parenting_corporate,0
